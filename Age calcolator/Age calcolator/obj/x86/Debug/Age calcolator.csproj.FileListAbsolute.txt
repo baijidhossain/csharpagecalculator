@@ -1,0 +1,24 @@
+G:\C#Folder\Age calcolator\Age calcolator\bin\Debug\Age calcolator.exe
+G:\C#Folder\Age calcolator\Age calcolator\bin\Debug\Age calcolator.pdb
+G:\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age_calcolator.Form1.resources
+G:\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age_calcolator.Properties.Resources.resources
+G:\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.csproj.GenerateResource.Cache
+G:\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.exe
+G:\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.pdb
+G:\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.csprojResolveAssemblyReference.cache
+F:\C#program\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.exe
+F:\C#program\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.pdb
+F:\C#program\C#Folder\Age calcolator\Age calcolator\bin\Debug\Age calcolator.exe
+F:\C#program\C#Folder\Age calcolator\Age calcolator\bin\Debug\Age calcolator.pdb
+F:\C#program\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.csprojResolveAssemblyReference.cache
+F:\C#program\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age_calcolator.Form1.resources
+F:\C#program\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age_calcolator.Properties.Resources.resources
+F:\C#program\C#Folder\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.csproj.GenerateResource.Cache
+F:\C#program\C#Folder_project\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.exe
+F:\C#program\C#Folder_project\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.pdb
+F:\C#program\C#Folder_project\Age calcolator\Age calcolator\bin\Debug\Age calcolator.exe
+F:\C#program\C#Folder_project\Age calcolator\Age calcolator\bin\Debug\Age calcolator.pdb
+F:\C#program\C#Folder_project\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.csprojResolveAssemblyReference.cache
+F:\C#program\C#Folder_project\Age calcolator\Age calcolator\obj\x86\Debug\Age_calcolator.Form1.resources
+F:\C#program\C#Folder_project\Age calcolator\Age calcolator\obj\x86\Debug\Age_calcolator.Properties.Resources.resources
+F:\C#program\C#Folder_project\Age calcolator\Age calcolator\obj\x86\Debug\Age calcolator.csproj.GenerateResource.Cache
